@@ -1,0 +1,26 @@
+.footer {
+  background: #333333;
+  color: #CCCCCC;
+  padding: 30px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center
+}
+
+.footer ul {
+  margin-top: 10px;
+}
+
+.footer a {
+  color: #CCCCCC;
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.footer a:hover{
+  color: yellow;
+}
+
+.footer p {
+  margin-top: 17px;
+}
