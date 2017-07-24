@@ -5,22 +5,22 @@
   display: flex;
   justify-content: space-between;
   align-items: center
-}
 
-.footer ul {
-  margin-top: 10px;
-}
+  ul {
+    margin-top: 10px;
+  }
 
-.footer a {
-  color: #CCCCCC;
-  font-size: 30px;
-  margin-right: 20px;
-}
+  a {
+    color: #CCCCCC;
+    font-size: 30px;
+    margin-right: 20px;
+  }
 
-.footer a:hover{
-  color: yellow;
-}
+  a:hover{
+    color: $yellow;
+  }
 
-.footer p {
-  margin-top: 17px;
+  p {
+    margin-top: 17px;
+  }
 }
